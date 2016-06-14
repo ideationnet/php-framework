@@ -1,0 +1,12 @@
+{
+    "name": "ideationnet/php-framework",
+    "description": "Tutorial files for PHP Framework in One Weekend.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darren",
+            "email": "darren@darrenmothersele.com"
+        }
+    ],
+    "require": {}
+}

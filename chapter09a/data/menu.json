@@ -1,0 +1,10 @@
+{
+	"index": {
+    	"title": "Hello World!",
+    	"content": "Welcome to my PHP framework."
+  	},
+	"about": {
+		"title": "About",
+    	"content": "This is an example site."
+ 	}
+}

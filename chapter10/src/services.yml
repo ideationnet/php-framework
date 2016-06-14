@@ -1,0 +1,8 @@
+
+services:
+  contact_controller:
+    class:     ContactController
+    arguments: ['@template_service']
+  basic_page_controller:
+    class:     BasicPageController
+    arguments: ['@template_service', '@config_service']
